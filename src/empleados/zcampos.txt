@@ -1,0 +1,8 @@
+tc_empleados
+	plaza varchar(30)
+	codigo varchar(100)
+
+to_movimientos
+	motivo varchar(50)
+	observaciones(150)
+	
